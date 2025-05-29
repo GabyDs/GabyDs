@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Gaby 👋
 
-<!--
-**GabyDs/GabyDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student**  
+💻 Passionate about **Python, Machine Learning, and AI**  
+🛠️ Always exploring new things, especially in programming  
+🎶 Big fan of **Rap Music**  
+🐧 Linux Enthusiast  
+📈 Interested in **Economy**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I get bored quickly, so I'm always looking for things to do—especially if it involves programming!
+
+---
+
+## 📫 How to reach me
+
+- [Your LinkedIn or email here]
+- [Any other social/media links]
+
+## ⚡ Fun facts
+
+- Still new to professional experience, but always learning!
+- Love tinkering with Linux and following economic trends.
+
+---
+
+Thanks for stopping by! ⭐

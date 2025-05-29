@@ -15,8 +15,7 @@
 
 ## 📫 How to reach me
 
-- [Your LinkedIn or email here]
-- [Any other social/media links]
+- [Linked-In](https://www.linkedin.com/in/gabriel-orlando-da-silva-schmies/)
 
 ## ⚡ Fun facts
 
